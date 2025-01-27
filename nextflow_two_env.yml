@@ -1,0 +1,28 @@
+name: nextflow_two
+channels:
+  - bioconda
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - c-ares=1.19.1=h5eee18b_0
+  - ca-certificates=2024.12.31=h06a4308_0
+  - coreutils=9.5=h5eee18b_0
+  - curl=7.88.1=hdbd6064_2
+  - krb5=1.20.1=h143b758_1
+  - libcurl=7.88.1=h251f7ec_2
+  - libedit=3.1.20230828=h5eee18b_0
+  - libev=4.33=h7f8727e_1
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libnghttp2=1.57.0=h2d74bed_0
+  - libssh2=1.11.1=h251f7ec_0
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - ncurses=6.4=h6a678d5_0
+  - nextflow=21.10.6=h4a94de4_0
+  - openjdk=8.0.152=h7b6447c_3
+  - openssl=3.0.15=h5eee18b_0
+  - zlib=1.2.13=h5eee18b_1
+prefix: /ru-auth/local/home/rjohnson/miniconda3/envs/nextflow_two
